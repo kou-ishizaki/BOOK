@@ -1,4 +1,4 @@
-BOOK
+BOOKとかノウハウとかをジブンで読んだり・体験した事を整理する
 ====
 
 読んだ書物について[書き綴ります](https://github.com/kou-ishizaki/BOOK/wiki/読んだ書物について綴ります)
