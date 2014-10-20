@@ -12,4 +12,7 @@ BOOKとかノウハウとかをジブンで読んだり・体験した事を整�
 
 ・[リモートワークのチームのための3つの会議シーンとツールの使い分け](http://kuranuki.sonicgarden.jp/2014/10/sgmeeting.html)
 
-・[Post-it Plus](http://gigazine.net/news/20140929-post-it-plus/)
+・[Post-it Plus](http://gigazine.net/news/20140929-post-it-plus/)  
+
+・[GitHub初心者はForkしない方のPull Requestから入門しよう](http://blog.qnyp.com/2013/05/28/pull-request-for-github-beginners/)
+
